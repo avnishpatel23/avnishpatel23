@@ -10,7 +10,7 @@
 - 🌐 Frontend: HTML, CSS, React.js
 - 🔙 Backend: Node.js, Express.js
 - 🛢️ Databases: MongoDB, MySQL
-- ⚙️ Tools: Git, GitHub, VS Code, Postman
+- ⚙️ Tools: Git, GitHub, VS Code
 
 ---
 
