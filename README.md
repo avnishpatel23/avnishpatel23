@@ -24,7 +24,7 @@
 
 📫 Let’s connect:
 - LinkedIn: [linkedin.com/in/avnishpatel23](https://www.linkedin.com/in/avnishpatel23)
-- Portfolio: [CliksByAvnish](https://photography-five-gamma.vercel.app/)
+- PhotoGraphy: [CliksByAvnish](https://photography-five-gamma.vercel.app/)
 - Email: er.avnishpatel23@gmail.com
 
 ---
