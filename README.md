@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Avnish Patel
 
-🎓 B.Tech CSE'25 | 💻 MERN Stack Developer | 🎯 GATE 2026 Aspirant  
+🎓 B.Tech CSE'25 | 💻 MERN Stack Developer |
 🚀 Passionate about building full-stack applications and solving real-world problems with code.
 
 ---
